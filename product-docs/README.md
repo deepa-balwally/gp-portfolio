@@ -1,4 +1,4 @@
-# Getting started with TaskFlow 
+# Getting started with TaskFlow
 This guide walks you through creating your first task in TaskFlow in under 5 minutes.
 
 
@@ -36,7 +36,7 @@ Labels help you filter and report on tasks later.
 
 ---
 
-## What's next? 
+## What's next?
 - Learn how to create recurring tasks: [Recurring tasks](./recurring-tasks.md)
 - Invite your team to a shared workspace: [Team workspaces](./team-workspaces.md)
 - Connect TaskFlow to Slack: [Integrations](./integrations.md)

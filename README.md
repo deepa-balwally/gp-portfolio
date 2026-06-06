@@ -1,8 +1,8 @@
 I help create user-friendly documentation for software.
 
 ## What do I Write
-API references, developer guides, SDK docs, release notes, onboarding tutorials  
- 
+API references, developer guides, SDK docs, release notes, onboarding tutorials
+
 ## Tools I Use
 VS Code, GitHub, Markdown, OpenAPI/Swagger, Confluence, Notion
 

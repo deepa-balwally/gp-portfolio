@@ -1,7 +1,7 @@
-# TaskFlow API Reference  
+# TaskFlow API Reference
 
-Base URL: https://api.taskflow.io/v1 
-Authentication: Bearer token in Authorization header  
+Base URL: https://api.taskflow.io/v1
+Authentication: Bearer token in Authorization header
 
 ---
 
@@ -11,7 +11,7 @@ Authentication: Bearer token in Authorization header
 | due_date | string | No | ISO 8601 date string (YYYY-MM-DD) |
 | priority | string | No | low, medium, or high. Default: medium |
 | assignee_id | integer | No | User ID of the assignee |
-  
+
 ### Example request
 
 ```bash
@@ -25,8 +25,8 @@ curl -X POST https://api.taskflow.io/v1/tasks \
     "assignee_id": 42
   }'
 ```
-  
-### Example response (201 Created) 
+
+### Example response (201 Created)
 ```json
 {
   "id": 1024,
@@ -38,8 +38,8 @@ curl -X POST https://api.taskflow.io/v1/tasks \
   "created_at": "2025-05-31T10:22:00Z"
 }
 ```
-  
-### Error responses 
+
+### Error responses
 | Status | Code | Description |
 | --- | --- | --- |
 | 400 | invalid_field | A required field is missing or malformed |

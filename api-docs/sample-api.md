@@ -6,7 +6,7 @@ Authentication: Bearer token in Authorization header
 ---
 
 | Parameter | Type | Required | Description |
-| --- | --- | --- | --- |
+|-----------|------|----------|-------------|
 | title | string | Yes | Task title (max 255 characters) |
 | due_date | string | No | ISO 8601 date string (YYYY-MM-DD) |
 | priority | string | No | low, medium, or high. Default: medium |

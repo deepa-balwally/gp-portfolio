@@ -1,5 +1,3 @@
-# Deepa Balwally — Technical Writer  
-
 I help create user-friendly documentation for software.
 
 ## What do I Write
